@@ -1,0 +1,23 @@
+{
+  "name": "test-area",
+  "version": "1.0.0",
+  "description": "An area to test things out",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msluther/test-area.git"
+  },
+  "keywords": [
+    "msluther",
+    "test"
+  ],
+  "author": "Michael Luther",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msluther/test-area/issues"
+  },
+  "homepage": "https://github.com/msluther/test-area#readme"
+}
