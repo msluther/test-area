@@ -19,5 +19,19 @@
   "bugs": {
     "url": "https://github.com/msluther/test-area/issues"
   },
-  "homepage": "https://github.com/msluther/test-area#readme"
+  "homepage": "https://github.com/msluther/test-area#readme",
+  "devDependencies": {
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.6",
+    "@babel/preset-react": "^7.7.4",
+    "@babel/register": "^7.7.4",
+    "assume": "^2.2.0",
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.15.1",
+    "mocha": "^6.2.2",
+    "nyc": "^14.1.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.12.0",
+    "setup-env": "^1.2.3"
+  }
 }
